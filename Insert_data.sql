@@ -1,9 +1,4 @@
 
-INSERT INTO Students VALUES
-(1, 'SQL')
-(2, 'POWER BI');
-
-
 INSERT INTO Course VALUES
 
 (1, 'SQL'),
