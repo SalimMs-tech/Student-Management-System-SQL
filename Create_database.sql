@@ -1,0 +1,5 @@
+sql
+
+New Query 
+
+CREATE DATABASE MyFirstDatabase;
